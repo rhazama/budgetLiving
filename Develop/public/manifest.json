@@ -1,0 +1,41 @@
+{
+    "name": "Budget Living",
+    "short_name": "Budgeter",
+
+    "icons": [
+        {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }, {
+            "src": "budgetLiving/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#24941A",
+    "background_color":
+    "start_url":
+    "display":
+    }]
+  })
